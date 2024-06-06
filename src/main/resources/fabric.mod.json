@@ -29,6 +29,12 @@
     "minecraft": "1.18.x",
     "java": ">=16"
   },
+  "custom": {
+    "modmenu": {
+      "badges": [ "library"],
+      "update_checker": false
+    }
+  },
   "breaks": {
     "quilt_loader": "*",
     "quilt_recipe": "*"
